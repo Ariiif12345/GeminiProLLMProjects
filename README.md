@@ -1,4 +1,4 @@
-# End-To-End-Gemini-Project
+# Gemini Pro LLM Project
 
 ## Setup
 
